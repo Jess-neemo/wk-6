@@ -1,4 +1,4 @@
--- Question 1 🧑‍💼
+-- Question 1 
 
 SELECT 
     e.firstName,
@@ -13,7 +13,7 @@ ON
     e.officeCode = o.officeCode;
 
 
--- Question 2 🛍️
+-- Question 2 
 
 SELECT 
     p.productName,
@@ -27,7 +27,7 @@ ON
     p.productLine = pl.productLine;
 
 
--- Question 3 📦
+-- Question 3 
 
 SELECT 
     o.orderDate,
